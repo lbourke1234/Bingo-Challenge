@@ -1,0 +1,9 @@
+.selected-number {
+    background-color: green;
+}
+
+.cells {
+    display:inline-block;
+    width: 40px;
+    height: 40px
+}
